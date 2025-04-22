@@ -206,4 +206,4 @@ To modify the game:
 
 ## Credits
 
-Created by [Your Name] as a demonstration of client-side game development with adaptive AI. 
+Created by Maria P as a demonstration of client-side game development with adaptive AI. 
